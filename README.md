@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/isurumaduwantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Isuru Maduwantha" height="30" width="40" /></a>
-<a href="https://fb.com/isuru maduwantha](https://www.facebook.com/isurumaduwantha2001?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Isuru Maduwantha" height="30" width="40" /></a>
-<a href="https://instagram.com/___maduwa___](https://www.instagram.com/_maduwa__?igsh=MTZkc29pczllYmh3MA%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___maduwa___" height="30" width="40" /></a>
+<a href="[https://fb.com/isuru maduwantha](https://www.facebook.com/isurumaduwantha2001?mibextid=LQQJ4d)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Isuru Maduwantha" height="30" width="40" /></a>
+<a href="[https://instagram.com/___maduwa___](https://www.instagram.com/_maduwa__?igsh=MTZkc29pczllYmh3MA%3D%3D&utm_source=qr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___maduwa___" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
