@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Smart Automated Spin Coater project**
 
-- 🌱 I’m currently learning **java script**
+- 🌱 I’m currently learning **System Administration & Networking**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **IT Support & System Administration**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
